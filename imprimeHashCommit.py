@@ -2,7 +2,7 @@ from github import Github
 import csv
 import pandas as pd
 
-token = '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'
+token = ''
 
 df = pd.DataFrame(columns=['Commit', 'Tag Hash','Release'])
 
